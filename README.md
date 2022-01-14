@@ -3,7 +3,7 @@ uses mineflayer's api to emulate the android app "chatcraft", wich lets you conn
 
 # Development version
 install nodejs  
-run: npm install mineflayer
+run: npm install mineflayer  
 run: node WinChatCraft.js
 
 # Production version
